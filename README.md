@@ -8,7 +8,7 @@ I am a passionate Software Engineer with a strong foundation in programming and 
 - 💡 **Interests**: Software Engineer, Cybersecurity, Mobile Development, Data Science, AI
 - 📍 **Location**: Dombivli East, Maharashtra, India
 - 📧 **Email**: [2021.tejas.rokade@ves.ac.in](mailto:2021.tejas.rokade@ves.ac.in)
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tejasrokade)
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tejas-rokade-949bb5277/)
 
 ## 🛠 Skills
 
